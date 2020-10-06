@@ -12,3 +12,7 @@ Beautiful Soup:
 Beautiful Soup is a library that makes it easy to scrape information from web pages. It sits atop an HTML or XML parser, providing Pythonic idioms for iterating, searching, and modifying the parse tree.
 
 pip install beautifulsoup4
+
+## Explanation –
+
+We have the google search URL of the gold price from that we have scrape the price of the gold in Indian rupees and store it in a variable, which we further print it.
