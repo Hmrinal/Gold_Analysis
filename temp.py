@@ -7,11 +7,11 @@ This is a temporary script file.
 
 
 #importing libraries
-from bs4 import BeautifulSoup as Bs
+from bs4 import BeautifulSoup as BS
 import requests
 
 #method to get the price of gold
-def get_Price(url):
+def get_price(url):
 
     #Getting the request from url
     data = requests.get(url)
