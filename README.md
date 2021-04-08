@@ -6,6 +6,7 @@ Here we see how to get the current gold price in India. There is a variation in 
 The following are the pre-installations which are required to be done.
 
 #### Requests :
+
 Requests allows you to send HTTP/1.1 requests extremely easily. There’s no need to manually add query strings to your URLs.
 
 - pip install requests
