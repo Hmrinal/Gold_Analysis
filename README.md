@@ -16,7 +16,7 @@ Beautiful Soup is a library that makes it easy to scrape information from web pa
 
 - pip install beautifulsoup4
 
-## Explanation –
+## Explanation 
 
 We have the google search URL of the gold price from that we have scrape the price of the gold in Indian rupees and store it in a variable, which we further print it.
 Many more things can be added to this code.
