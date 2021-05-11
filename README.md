@@ -13,6 +13,7 @@ Requests allows you to send `HTTP/1.1` requests extremely easily. There’s no n
 - pip install requests
 
 #### Beautiful Soup:
+
 Beautiful Soup is a library that makes it easy to scrape information from web pages. It sits atop an HTML or XML parser, providing Pythonic idioms for iterating, searching, and modifying the parse tree.
 
 - pip install beautifulsoup4
