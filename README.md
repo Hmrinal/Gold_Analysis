@@ -1,6 +1,6 @@
 # Gold Analysis
 
-Here we see how to get the current gold price in India. There is a variation in price of gold with time to time, price of gold is moved by a combination of supply, demand, and investor behavior. That seems simple enough, yet the way those factors work together is sometimes counterintuitive.
+Here we see how to get the current gold price in India. There is a variation in price of gold with time to time, price of gold is moved by a combination of supply, demand, and investor behavior. That seems simple enough, yet the way those factors work together is sometimes counter-intuitive.
 
 ### Modules required and Installation:
 
